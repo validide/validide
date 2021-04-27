@@ -1,4 +1,4 @@
-### Hi there 👋
+Passionate about programming and building systems that can evolve over time.
 
 <!--
 **validide/validide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
